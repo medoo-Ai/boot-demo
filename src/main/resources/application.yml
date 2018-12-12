@@ -1,0 +1,6 @@
+server:
+  servlet:
+    context-path:  /
+spring:
+  profiles:
+    active: test   #\u914D\u7F6E\u6587\u4EF6\u5207\u6362\u6210test \u73AF\u5883

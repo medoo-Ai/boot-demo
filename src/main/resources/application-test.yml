@@ -1,0 +1,5 @@
+server:
+  port: 8011
+student:     # 添加 student 属性
+  name: test-doudou
+  age: 15

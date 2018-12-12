@@ -1,0 +1,5 @@
+server:
+  port: 8011   # 配置文件修改port
+student:
+  name: dadoudou
+  age: 15
